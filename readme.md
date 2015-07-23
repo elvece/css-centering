@@ -1,22 +1,14 @@
 #Inline and Inline-Block Vertial Align
 
-
 ##Single Line
-<br>
 -can appear vertically centering due to equal padding above and below
-
 -if padding not an option, make line-height equal to the height to center text
 
 ##Multiple Lines
-<br>
 -can use same equal padding technique as above
-
 -can also use vertical-align property
-
  -is dependent on line height
-
  -applies to elements being aligned, not their parent element
-
 -flex: parent container needs fixed height
 
 ```
